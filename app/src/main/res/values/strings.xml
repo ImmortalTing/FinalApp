@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="btn">Button</string>
+    <string name="btn2">Login</string>
+    <string name="hello">Happy Birthday!</string>
+    <string name="from">Your Tom</string>
+    <string name="btn_lable" translatable="false">Button</string>
+    <string name="hint_txt" translatable="false">Input your name</string>
+    <string name="lable_add3" translatable="false">+3 points</string>
+    <string name="lable_add2" translatable="false">+2 points</string>
+    <string name="lable_add1" translatable="false">+1 point</string>
+    <string name="btn_reset_label" translatable="false">Reset</string>
+    <string name="btn_dollar_lable" translatable="false">Dollar</string>
+    <string name="btn_euro_lable" translatable="false">Euro</string>
+    <string name="btn_won_lable" translatable="false">Won</string>
+    <string name="rmb_hint" translatable="false">Input RMB</string>
+    <string name="btn_opencfg_label">Config</string>
+    <string name="btn_save_label">Save</string>
+</resources>

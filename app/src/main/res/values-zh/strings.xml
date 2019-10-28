@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">程序1</string>
+    <string name="btn">按钮</string>
+    <string name="btn2">登录</string>
+    <string name="hello">生日快乐</string>
+    <string name="from">汤姆</string>
+</resources>
